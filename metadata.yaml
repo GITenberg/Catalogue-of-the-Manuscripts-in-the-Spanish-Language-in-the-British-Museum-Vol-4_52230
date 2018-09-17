@@ -1,5 +1,8 @@
 _repo: Catalogue-of-the-Manuscripts-in-the-Spanish-Language-in-the-British-Museum-Vol-4_52230
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52230-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Gayangos, Pascual de
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '46734'
     url: http://www.gutenberg.org/2009/agents/46734
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52230#Catalogue-of-the-Manuscripts-in-the-Spanish-Language-in-the-British-Museum-Vol-4
 gutenberg_issued: '2016-06-05'
 gutenberg_type: Text
 identifiers:
